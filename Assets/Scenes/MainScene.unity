@@ -130,7 +130,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3940565}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_forearm_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -160,7 +160,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4231505}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -190,7 +190,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5409939}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -220,7 +220,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9937401}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -250,7 +250,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 20721333}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-forearm_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -281,7 +281,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 24520027}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: palm.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -311,7 +311,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 31845200}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shin.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -343,7 +343,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 41278530}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.01_master.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -373,7 +373,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 45387707}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.01.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -453,7 +453,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 60201840}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shin_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -483,7 +483,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 64090448}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -513,7 +513,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 68039807}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.02_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -545,7 +545,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 74939992}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -575,7 +575,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 78742786}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -605,7 +605,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 80960869}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shoulder.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -635,7 +635,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 85810020}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-shin_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -665,7 +665,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 92194987}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.01.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -786,7 +786,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 97182610}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.03.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -903,7 +903,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 102914391}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_index.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -934,7 +934,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 105234024}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.01.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -965,7 +965,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 107960098}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-toe.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -996,7 +996,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 110421821}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-pelvis.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1027,7 +1027,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 110731570}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_spine_fk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1057,7 +1057,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 117016818}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-spine.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1091,7 +1091,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 121358742}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-ROT-head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1122,7 +1122,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 122700488}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-shin_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1153,7 +1153,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 127854231}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: pelvis.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1183,7 +1183,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 128532160}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_spine_fk.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1213,7 +1213,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 130159632}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: VIS_upper_arm_ik_pole.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1244,7 +1244,7 @@ GameObject:
   m_Component:
   - component: {fileID: 132412958}
   - component: {fileID: 132412959}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1394,7 +1394,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 137909126}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_spin_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1426,7 +1426,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 139889706}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thumb.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1457,7 +1457,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 140163707}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: toe.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1487,7 +1487,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 142399511}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.01_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1519,7 +1519,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 148592814}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.03.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1557,7 +1557,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 161837214}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1587,7 +1587,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 165015447}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_middle.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1617,7 +1617,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 165032416}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thigh.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1648,7 +1648,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 165359570}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-WGT-chest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1715,7 +1715,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 173012945}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.01_master.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1746,7 +1746,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 173207700}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: palm.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1778,7 +1778,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 180392830}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-pivot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1809,7 +1809,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 182970901}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1839,7 +1839,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 183141011}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1869,7 +1869,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 185143210}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shin.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1901,7 +1901,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 192281864}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_toe.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1931,7 +1931,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 197553579}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.03_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1963,7 +1963,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 204033194}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1995,7 +1995,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 205981404}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2025,7 +2025,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 206259388}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_ik_target.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2056,7 +2056,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 214809777}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_index.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2087,7 +2087,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 220049184}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2224,7 +2224,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &223092248
 GameObject:
@@ -2235,7 +2235,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 223092249}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_ring.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2266,7 +2266,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 224199954}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_index.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2296,7 +2296,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 225354873}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2327,7 +2327,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 226650275}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_hand_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2357,7 +2357,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 234568428}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-palm.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2476,6 +2476,105 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &252547184
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 923893714876022424, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 672947111}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.4072
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3.4072
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3.4072
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 88.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -25.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -283.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.4551182
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.54117227
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.4551182
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.54117227
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90.00001
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022425, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -99.873
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022436, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_Name
+      value: Jump
+      objectReference: {fileID: 0}
+    - target: {fileID: 923893714876022437, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 672947111}
+    - target: {fileID: 923893714876022438, guid: ead035a147c4a6d408c59ab1b75e99da,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 672947111}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ead035a147c4a6d408c59ab1b75e99da, type: 3}
 --- !u!4 &258332070 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8242352606207667663, guid: def1b5a67cc195940922b5f6a9a5c9cf,
@@ -2491,7 +2590,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 264272432}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_index.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2521,7 +2620,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 265467695}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine_fk.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2555,7 +2654,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 269758035}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_ik_target.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2586,7 +2685,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 271533019}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_hips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2616,7 +2715,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 275094365}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_ik_target.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2646,7 +2745,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 277962785}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-heel.02_rock1.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2677,7 +2776,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 280821902}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-forearm_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2707,7 +2806,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 283321887}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-palm.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2743,7 +2842,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 288122378}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-palm.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2774,7 +2873,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 289937457}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.01_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2806,7 +2905,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 290538134}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_shin_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2836,7 +2935,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 290960491}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_index.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2867,7 +2966,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 301159726}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2897,7 +2996,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 304268043}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.01_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2929,7 +3028,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 307281958}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2960,7 +3059,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 309302139}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2987,7 +3086,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-74032
+  m_Name: pb_Mesh-2416
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3153,7 +3252,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 312058592}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-toe.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3185,7 +3284,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 312903902}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3216,7 +3315,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 327580452}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_ring.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3252,7 +3351,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 337065288}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.01.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3283,7 +3382,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 337229520}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3313,7 +3412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 339896325}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3343,7 +3442,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 340902214}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.01_master.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3374,7 +3473,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 341497707}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.01.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3404,7 +3503,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 344393703}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3434,7 +3533,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 344649616}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3464,7 +3563,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 348288126}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-palm.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3500,7 +3599,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 348575458}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3530,7 +3629,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 350205531}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3560,7 +3659,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 352176082}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.01.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3590,7 +3689,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 358605063}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3620,7 +3719,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 362167651}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3642,30 +3741,12 @@ Transform:
   m_Father: {fileID: 2048511864}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &364979080 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3886003235171834601, guid: 27f9c05a0d4f0e14a856ed8ecbd67035,
-    type: 3}
-  m_PrefabInstance: {fileID: 2070621242}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &364979081 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4514308831548784723, guid: 27f9c05a0d4f0e14a856ed8ecbd67035,
     type: 3}
   m_PrefabInstance: {fileID: 2070621242}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &364979082
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 364979080}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f533414cf18ffd3489fc36f8b7dbdb27, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &366853852
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3759,7 +3840,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 366938047}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-forearm.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3796,7 +3877,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 375137055}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.03_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3828,7 +3909,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 376737283}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_chest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3858,7 +3939,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 383584374}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-STR-neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3890,7 +3971,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 385199108}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3920,7 +4001,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 387307061}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3960,7 +4041,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 388102990}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.03.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3993,7 +4074,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 391895666}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_ring.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4023,7 +4104,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 409440794}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-shin.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4054,7 +4135,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 410357673}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: forearm_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4085,7 +4166,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 411866947}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-spine.004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4116,7 +4197,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 414411400}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-hand.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4150,7 +4231,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 422330933}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-spine.004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4181,7 +4262,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 427043156}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-thumb.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4218,7 +4299,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 432118409}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: palm.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4251,7 +4332,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 434673884}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_parent_socket.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4282,7 +4363,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 436122044}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: palm.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4315,7 +4396,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 440984039}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.02.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4347,7 +4428,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 443176990}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_palm.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4377,7 +4458,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 448608354}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_middle.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4408,7 +4489,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 452460938}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_middle.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4449,7 +4530,7 @@ PrefabInstance:
     - target: {fileID: 4586526161665663564, guid: 6715fe23802a58f42b3c57164d53786f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -12.6
+      value: -12.51
       objectReference: {fileID: 0}
     - target: {fileID: 4586526161665663564, guid: 6715fe23802a58f42b3c57164d53786f,
         type: 3}
@@ -4513,7 +4594,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 457904269}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_torso
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4543,7 +4624,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 461580955}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-palm.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4585,7 +4666,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 462534093}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_ring.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4616,7 +4697,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 467621979}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4646,7 +4727,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 468989969}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: chest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4676,7 +4757,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 475781667}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.02.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4765,7 +4846,7 @@ Transform:
   m_Children:
   - {fileID: 1709133079}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 24.2, y: 0, z: 0}
 --- !u!1 &483070782
 GameObject:
@@ -4776,7 +4857,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 483070783}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-foot_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5047,7 +5128,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 488389669}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_ik_stretch.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5077,7 +5158,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 489015945}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-palm.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5119,7 +5200,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 489172941}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.01_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5151,7 +5232,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 489569755}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-spine.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5181,7 +5262,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 491435700}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_ring.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5301,7 +5382,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 497936465}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-palm.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5332,7 +5413,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 497996139}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_parent_socket.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5363,7 +5444,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 498196994}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.01_master.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5394,7 +5475,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 498631777}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_tweak_spine.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5424,7 +5505,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 503979574}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-thigh.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5456,7 +5537,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 505494209}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-spine.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5487,7 +5568,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 510385998}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5517,7 +5598,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 510657441}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-forearm_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5549,7 +5630,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 511270657}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-palm.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5580,7 +5661,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 519561309}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-hand_ik.parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5612,7 +5693,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 525904807}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.01.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5642,7 +5723,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 529476632}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-upper_arm.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5673,7 +5754,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 530306195}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine_fk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5706,7 +5787,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 530800182}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-spine.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5737,7 +5818,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 532170608}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_spine_fk.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5767,7 +5848,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 532399493}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.02_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5790,176 +5871,6 @@ Transform:
   m_Father: {fileID: 337065288}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &532627749
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1478754139}
-    m_Modifications:
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 85.94496
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 37.547184
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -47.43518
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99878514
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.049276978
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -5.649
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1135601396024123489, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_Name
-      value: RockGroup (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f5fae83bce2a63247b24bc27a8845194, type: 3}
---- !u!4 &532627750 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-    type: 3}
-  m_PrefabInstance: {fileID: 532627749}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &534013424
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1478754139}
-    m_Modifications:
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 108.55824
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 50.23547
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 94.043396
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99878514
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.049276978
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -5.649
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1135601396024123489, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_Name
-      value: RockGroup (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f5fae83bce2a63247b24bc27a8845194, type: 3}
---- !u!4 &534013425 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-    type: 3}
-  m_PrefabInstance: {fileID: 534013424}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &539395708
 GameObject:
   m_ObjectHideFlags: 0
@@ -5969,7 +5880,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 539395709}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_tweak_spine.004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5999,7 +5910,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 546802126}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-thumb.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6030,7 +5941,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 548093992}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-hand_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6062,7 +5973,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 549053097}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-thumb.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6093,7 +6004,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 551435478}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6129,7 +6040,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 563016450}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6160,7 +6071,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 566343195}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-shin.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6191,7 +6102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 575843313}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: VIS_thigh_ik_pole.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6221,7 +6132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 577843926}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-WGT-hips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6251,7 +6162,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 577999330}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-shin.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6282,7 +6193,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 584708996}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6567,7 +6478,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 587223596}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_tweak_spine.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6597,7 +6508,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 589104968}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thumb.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6628,7 +6539,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 592726258}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: root
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6663,7 +6574,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 592894831}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6695,7 +6606,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 593863233}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-heel.02_roll2.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6759,7 +6670,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 602678382}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.03.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6792,7 +6703,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 603745342}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-heel.02_rock2.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7027,7 +6938,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 625929748}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_ik_target.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7057,7 +6968,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 632948570}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7087,7 +6998,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 633714921}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7117,7 +7028,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 633785391}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: metarig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7148,7 +7059,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 635203568}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-heel.02_roll1.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7179,7 +7090,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 637753815}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-ROT-neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7210,7 +7121,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 640901468}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hand_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7382,7 +7293,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 364979082, guid: 27f9c05a0d4f0e14a856ed8ecbd67035, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 27f9c05a0d4f0e14a856ed8ecbd67035, type: 3}
 --- !u!1 &645503962
 GameObject:
@@ -7393,7 +7305,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 645503963}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-palm.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7429,7 +7341,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 647225204}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-toe.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7461,7 +7373,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 647840410}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: tweak_spine.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7576,7 +7488,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 656522881}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7609,7 +7521,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 666209368}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_ik_stretch.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7639,7 +7551,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 669008479}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.02.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7671,7 +7583,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 672190874}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_ik_target.parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7693,6 +7605,169 @@ Transform:
   m_Father: {fileID: 680317873}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!43 &672947111
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: pb_Mesh-17816
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 300
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 200
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000001000200010003000200040005000600050007000600080009000a0009000b000a000c000d000e000d000f000e00100011001200110013001200140015001600150017001600180019001a0019001b001a001c001d001e001d001f001e00200021002200210023002200240025002600250027002600280029002a0029002b002a002c002d002e002d002f002e00300031003200310033003200340035003600350037003600380039003a0039003b003a003c003d003e003d003f003e00400041004200410043004200440045004600450047004600480049004a0049004b004a004c004d004e004d004f004e00500051005200510053005200540055005600550057005600580059005a0059005b005a005c005d005e005d005f005e00600061006200610063006200640065006600650067006600680069006a0069006b006a006c006d006e006d006f006e00700071007200710073007200740075007600750077007600780079007a0079007b007a007c007d007e007d007f007e00800081008200810083008200840085008600850087008600880089008a0089008b008a008c008d008e008d008f008e00900091009200910093009200940095009600950097009600980099009a0099009b009a009c009d009e009d009f009e00a000a100a200a100a300a200a400a500a600a500a700a600a800a900aa00a900ab00aa00ac00ad00ae00ad00af00ae00b000b100b200b100b300b200b400b500b600b500b700b600b800b900ba00b900bb00ba00bc00bd00be00bd00bf00be00c000c100c200c100c300c200c400c500c600c500c700c600
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 200
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 4
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 9600
+    _typelessdata: 000000000000000000000000eadc7f3f7804063d0000000000000000000000000000803f000080bf0000000000000000007a52bc1eebc83e00000000eadc7f3f7804063d0000000000000000000000000000803f000080bf00000000ac06c93e00000000000000000000c040eadc7f3f7804063d0000000000000000000000000000803f000080bf0000c04000000000007a52bc1eebc83e0000c040eadc7f3f7804063d0000000000000000000000000000803f000080bf0000c040ac06c93ecc5e81bf996ea73e00000000e9dc7fbfb90406bd000000000000000000000000000080bf000080bf000000002646b83e000080bf0000000000000000e9dc7fbfb90406bd000000000000000000000000000080bf000080bf00000000b904063dcc5e81bf996ea73e0000c040e9dc7fbfb90406bd000000000000000000000000000080bf000080bf0000c0c02646b83e000080bf000000000000c040e9dc7fbfb90406bd000000000000000000000000000080bf000080bf0000c0c0b904063d00000000000000000000c04000000000000080bf00000000000080bf0000000000000000000080bf000000000000c040000080bf000000000000c04000000000000080bf00000000000080bf0000000000000000000080bf0000803f0000c04000000000000000000000000000000000000080bf00000000000080bf0000000000000000000080bf0000000000000000000080bf000000000000000000000000000080bf00000000000080bf0000000000000000000080bf0000803f00000000007a52bc1eebc83e000000006fc47e3fd8bcc83d0000000000000000000000000000803f000080bf000000007d98c83e004052bdfe7c483f000000006fc47e3fd8bcc83d0000000000000000000000000000803f000080bf0000000094cf483f007a52bc1eebc83e0000c0406fc47e3fd8bcc83d0000000000000000000000000000803f000080bf0000c0407d98c83e004052bdfe7c483f0000c0406fc47e3fd8bcc83d0000000000000000000000000000803f000080bf0000c04094cf483fac7985bfd312273f000000006ec47ebff9bcc8bd000000000000000000000000000080bf000080bf00000000456f403fcc5e81bf996ea73e000000006ec47ebff9bcc8bd000000000000000000000000000080bf000080bf00000000fc58d93eac7985bfd312273f0000c0406ec47ebff9bcc8bd000000000000000000000000000080bf000080bf0000c0c0456f403fcc5e81bf996ea73e0000c0406ec47ebff9bcc8bd000000000000000000000000000080bf000080bf0000c0c0fc58d93e004052bdfe7c483f00000000a4947c3f85ce263e0000000000000000000000000000803f000080bf000000006ff3473f801cecbd52d4953f00000000a4947c3f85ce263e0000000000000000000000000000803f000080bf00000000633b963f004052bdfe7c483f0000c040a4947c3f85ce263e0000000000000000000000000000803f000080bf0000c0406ff3473f801cecbd52d4953f0000c040a4947c3f85ce263e0000000000000000000000000000803f000080bf0000c040633b963f244c8cbf32b7793f00000000a8947cbf26ce26be000000000000000000000000000080bf000080bf00000000420b923fac7985bfd312273f00000000a8947cbf26ce26be000000000000000000000000000080bf000080bf00000000bd53503f244c8cbf32b7793f0000c040a8947cbf26ce26be000000000000000000000000000080bf000080bf0000c0c0420b923fac7985bfd312273f0000c040a8947cbf26ce26be000000000000000000000000000080bf000080bf0000c0c0bd53503f801cecbd52d4953f000000000650793f5486683e0000000000000000000000000000803f000080bf000000003044953f005a51bee5c5c63f000000000650793f5486683e0000000000000000000000000000803f000080bf00000000d985c73f801cecbd52d4953f0000c0400650793f5486683e0000000000000000000000000000803f000080bf0000c0403044953f005a51bee5c5c63f0000c0400650793f5486683e0000000000000000000000000000803f000080bf0000c040d985c73fb8ce95bfeaa4a53f00000000ff4f79bfc98668be000000000000000000000000000080bf000080bf00000000b855c33f244c8cbf32b7793f00000000ff4f79bfc98668be000000000000000000000000000080bf000080bf000000005474993fb8ce95bfeaa4a53f0000c040ff4f79bfc98668be000000000000000000000000000080bf000080bf0000c0c0b855c33f244c8cbf32b7793f0000c040ff4f79bfc98668be000000000000000000000000000080bf000080bf0000c0c05474993f005a51bee5c5c63f0000000006fa743f53a0943e0000000000000000000000000000803f000080bf0000000072cfc53fe007a3be91ddf63f0000000006fa743f53a0943e0000000000000000000000000000803f000080bf000000001c11f83f005a51bee5c5c63f0000c04006fa743f53a0943e0000000000000000000000000000803f000080bf0000c04072cfc53fe007a3be91ddf63f0000c04006fa743f53a0943e0000000000000000000000000000803f000080bf0000c0401c11f83ff8f6a1bfa4b8cd3f000000000cfa74bf26a094be000000000000000000000000000080bf000080bf00000000f9e0f33fb8ce95bfeaa4a53f000000000cfa74bf26a094be000000000000000000000000000080bf000080bf0000000097ffc93ff8f6a1bfa4b8cd3f0000c0400cfa74bf26a094be000000000000000000000000000080bf000080bf0000c0c0f9e0f33fb8ce95bfeaa4a53f0000c0400cfa74bf26a094be000000000000000000000000000080bf000080bf0000c0c097ffc93fe007a3be91ddf63f0000000086976f3f275ab43e0000000000000000000000000000803f000080bf000000005766f53fa0d7e9be50f312400000000086976f3f275ab43e0000000000000000000000000000803f000080bf0000000001d41340e007a3be91ddf63f0000c04086976f3f275ab43e0000000000000000000000000000803f000080bf0000c0405766f53fa0d7e9be50f312400000c04086976f3f275ab43e0000000000000000000000000000803f000080bf0000c04001d4134094b7b0bfdceaf43f000000008a976fbf165ab4be000000000000000000000000000080bf000080bf00000000f0bb1140f8f6a1bfa4b8cd3f000000008a976fbf165ab4be000000000000000000000000000080bf000080bf000000007a96f93f94b7b0bfdceaf43f0000c0408a976fbf165ab4be000000000000000000000000000080bf000080bf0000c0c0f0bb1140f8f6a1bfa4b8cd3f0000c0408a976fbf165ab4be000000000000000000000000000080bf000080bf0000c0c07a96f93fa0d7e9be50f3124000000000682e693f2d4ed33e0000000000000000000000000000803f000080bf0000000059ea114048671ebfc0d6294000000000682e693f2d4ed33e0000000000000000000000000000803f000080bf000000002e0b2b40a0d7e9be50f312400000c040682e693f2d4ed33e0000000000000000000000000000803f000080bf0000c04059ea114048671ebfc0d629400000c040682e693f2d4ed33e0000000000000000000000000000803f000080bf0000c0402e0b2b406000c2bf4a880d40000000005b2e69bf694ed3be000000000000000000000000000080bf000080bf000000001bf3284094b7b0bfdceaf43f000000005b2e69bf694ed3be000000000000000000000000000080bf000080bf000000006a0214406000c2bf4a880d400000c0405b2e69bf694ed3be000000000000000000000000000080bf000080bf0000c0c01bf3284094b7b0bfdceaf43f0000c0405b2e69bf694ed3be000000000000000000000000000080bf000080bf0000c0c06a02144048671ebfc0d629400000000091c5613f055bf13e0000000000000000000000000000803f000080bf00000000c3732840f8c84dbf000040400000000091c5613f055bf13e0000000000000000000000000000803f000080bf000000009894414048671ebfc0d629400000c04091c5613f055bf13e0000000000000000000000000000803f000080bf0000c040c3732840f8c84dbf000040400000c04091c5613f055bf13e0000000000000000000000000000803f000080bf0000c0409894414068bed5bf000020400000000096c561bff15af1be000000000000000000000000000080bf000080bf00000000897c3f406000c2bf4a880d400000000096c561bff15af1be000000000000000000000000000080bf000080bf00000000d78b2a4068bed5bf000020400000c04096c561bff15af1be000000000000000000000000000080bf000080bf0000c0c0897c3f406000c2bf4a880d400000c04096c561bff15af1be000000000000000000000000000080bf000080bf0000c0c0d78b2a40f8c84dbf00004040000000005665593f6d2f073f0000000000000000000000000000803f000080bf00000000c7363e406c6e81bfc7565540000000005665593f6d2f073f0000000000000000000000000000803f000080bf000000009c575740f8c84dbf000040400000c0405665593f6d2f073f0000000000000000000000000000803f000080bf0000c040c7363e406c6e81bfc75655400000c0405665593f6d2f073f0000000000000000000000000000803f000080bf0000c0409c57574004dcebbf50c8314000000000576559bf692f07bf000000000000000000000000000080bf000080bf00000000863f554068bed5bf0000204000000000576559bf692f07bf000000000000000000000000000080bf000080bf00000000d64e404004dcebbf50c831400000c040576559bf692f07bf000000000000000000000000000080bf000080bf0000c0c0863f554068bed5bf000020400000c040576559bf692f07bf000000000000000000000000000080bf000080bf0000c0c0d64e40406c6e81bfc756554000000000b516503f481d153f0000000000000000000000000000803f000080bf00000000771b534064b49ebfafc3694000000000b516503f481d153f0000000000000000000000000000803f000080bf000000004d3c6c406c6e81bfc75655400000c040b516503f481d153f0000000000000000000000000000803f000080bf0000c040771b534064b49ebfafc369400000c040b516503f481d153f0000000000000000000000000000803f000080bf0000c0404d3c6c407f2002c0bccd424000000000b31650bf4a1d15bf000000000000000000000000000080bf000080bf000000003c246a4004dcebbf50c8314000000000b31650bf4a1d15bf000000000000000000000000000080bf000080bf000000008a3355407f2002c0bccd42400000c040b31650bf4a1d15bf000000000000000000000000000080bf000080bf0000c0c03c246a4004dcebbf50c831400000c040b31650bf4a1d15bf000000000000000000000000000080bf000080bf0000c0c08a33554064b49ebfafc369400000000002e4453f9c67223f0000000000000000000000000000803f000080bf00000000fb0a67404896bebf54307d400000000002e4453f9c67223f0000000000000000000000000000803f000080bf00000000e815804064b49ebfafc369400000c04002e4453f9c67223f0000000000000000000000000000803f000080bf0000c040fb0a67404896bebf54307d400000c04002e4453f9c67223f0000000000000000000000000000803f000080bf0000c040e815804048690fc09cfd5240000000000ce445bf906722bf000000000000000000000000000080bf000080bf00000000bf137e407f2002c0bccd4240000000000ce445bf906722bf000000000000000000000000000080bf000080bf000000000d23694048690fc09cfd52400000c0400ce445bf906722bf000000000000000000000000000080bf000080bf0000c0c0bf137e407f2002c0bccd42400000c0400ce445bf906722bf000000000000000000000000000080bf000080bf0000c0c00d2369404896bebf54307d40000000005cd83a3febff2e3f0000000000000000000000000000803f000080bf0000000070ef794028f1e0bfb6c38740000000005cd83a3febff2e3f0000000000000000000000000000803f000080bf00000000238889404896bebf54307d400000c0405cd83a3febff2e3f0000000000000000000000000000803f000080bf0000c04070ef794028f1e0bfb6c387400000c0405cd83a3febff2e3f0000000000000000000000000000803f000080bf0000c04023888940d0b91dc030466240000000005cd83abfebff2ebf000000000000000000000000000080bf000080bf000000001a7c884048690fc09cfd5240000000005cd83abfebff2ebf000000000000000000000000000080bf000080bf0000000082077c40d0b91dc0304662400000c0405cd83abfebff2ebf000000000000000000000000000080bf000080bf0000c0c01a7c884048690fc09cfd52400000c0405cd83abfebff2ebf000000000000000000000000000080bf000080bf0000c0c082077c40d0b91dc0304662400000c040f30435bff304353f00000000f404353ff404353f00000000000080bf4de2413f0000c04028f1e0bfb6c387400000c040f30435bff304353f00000000f404353ff404353f00000000000080bf24f1e03f0000c040d0b91dc03046624000000000f30435bff304353f00000000f404353ff404353f00000000000080bf4de2413f0000000028f1e0bfb6c3874000000000f30435bff304353f00000000f404353ff404353f00000000000080bf24f1e03f0000000000000000000000000000c04000000000000000000000803f000080bf0000000000000000000080bf0000000000000000007a52bc1eebc83e0000c04000000000000000000000803f000080bf0000000000000000000080bf007a523c1eebc83e000080bf000000000000c04000000000000000000000803f000080bf0000000000000000000080bf0000803f00000000cc5e81bf996ea73e0000c04000000000000000000000803f000080bf0000000000000000000080bfcc5e813f996ea73e007a52bc1eebc83e000000000000000000000000000080bf0000803f0000000000000000000080bf007a52bc1eebc83e0000000000000000000000000000000000000000000080bf0000803f0000000000000000000080bf0000000000000000cc5e81bf996ea73e000000000000000000000000000080bf0000803f0000000000000000000080bfcc5e81bf996ea73e000080bf00000000000000000000000000000000000080bf0000803f0000000000000000000080bf000080bf00000000007a52bc1eebc83e0000c04000000000000000000000803f000080bf0000000000000000000080bf007a523c1eebc83e004052bdfe7c483f0000c04000000000000000000000803f000080bf0000000000000000000080bf0040523dfe7c483fcc5e81bf996ea73e0000c04000000000000000000000803f000080bf0000000000000000000080bfcc5e813f996ea73eac7985bfd312273f0000c04000000000000000000000803f000080bf0000000000000000000080bfac79853fd312273f004052bdfe7c483f000000000000000000000000000080bf0000803f0000000000000000000080bf004052bdfe7c483f007a52bc1eebc83e000000000000000000000000000080bf0000803f0000000000000000000080bf007a52bc1eebc83eac7985bfd312273f000000000000000000000000000080bf0000803f0000000000000000000080bfac7985bfd312273fcc5e81bf996ea73e000000000000000000000000000080bf0000803f0000000000000000000080bfcc5e81bf996ea73e004052bdfe7c483f0000c04000000000000000000000803f000080bf0000000000000000000080bf0040523dfe7c483f801cecbd52d4953f0000c04000000000000000000000803f000080bf0000000000000000000080bf801cec3d52d4953fac7985bfd312273f0000c04000000000000000000000803f000080bf0000000000000000000080bfac79853fd312273f244c8cbf32b7793f0000c04000000000000000000000803f000080bf0000000000000000000080bf244c8c3f32b7793f801cecbd52d4953f000000000000000000000000000080bf0000803f0000000000000000000080bf801cecbd52d4953f004052bdfe7c483f000000000000000000000000000080bf0000803f0000000000000000000080bf004052bdfe7c483f244c8cbf32b7793f000000000000000000000000000080bf0000803f0000000000000000000080bf244c8cbf32b7793fac7985bfd312273f000000000000000000000000000080bf0000803f0000000000000000000080bfac7985bfd312273f801cecbd52d4953f0000c04000000000000000000000803f000080bf0000000000000000000080bf801cec3d52d4953f005a51bee5c5c63f0000c04000000000000000000000803f000080bf0000000000000000000080bf005a513ee5c5c63f244c8cbf32b7793f0000c04000000000000000000000803f000080bf0000000000000000000080bf244c8c3f32b7793fb8ce95bfeaa4a53f0000c04000000000000000000000803f000080bf0000000000000000000080bfb8ce953feaa4a53f005a51bee5c5c63f000000000000000000000000000080bf0000803f0000000000000000000080bf005a51bee5c5c63f801cecbd52d4953f000000000000000000000000000080bf0000803f0000000000000000000080bf801cecbd52d4953fb8ce95bfeaa4a53f000000000000000000000000000080bf0000803f0000000000000000000080bfb8ce95bfeaa4a53f244c8cbf32b7793f000000000000000000000000000080bf0000803f0000000000000000000080bf244c8cbf32b7793f005a51bee5c5c63f0000c04000000000000000000000803f000080bf0000000000000000000080bf005a513ee5c5c63fe007a3be91ddf63f0000c04000000000000000000000803f000080bf0000000000000000000080bfe007a33e91ddf63fb8ce95bfeaa4a53f0000c04000000000000000000000803f000080bf0000000000000000000080bfb8ce953feaa4a53ff8f6a1bfa4b8cd3f0000c04000000000000000000000803f000080bf0000000000000000000080bff8f6a13fa4b8cd3fe007a3be91ddf63f000000000000000000000000000080bf0000803f0000000000000000000080bfe007a3be91ddf63f005a51bee5c5c63f000000000000000000000000000080bf0000803f0000000000000000000080bf005a51bee5c5c63ff8f6a1bfa4b8cd3f000000000000000000000000000080bf0000803f0000000000000000000080bff8f6a1bfa4b8cd3fb8ce95bfeaa4a53f000000000000000000000000000080bf0000803f0000000000000000000080bfb8ce95bfeaa4a53fe007a3be91ddf63f0000c04000000000000000000000803f000080bf0000000000000000000080bfe007a33e91ddf63fa0d7e9be50f312400000c04000000000000000000000803f000080bf0000000000000000000080bfa0d7e93e50f31240f8f6a1bfa4b8cd3f0000c04000000000000000000000803f000080bf0000000000000000000080bff8f6a13fa4b8cd3f94b7b0bfdceaf43f0000c04000000000000000000000803f000080bf0000000000000000000080bf94b7b03fdceaf43fa0d7e9be50f31240000000000000000000000000000080bf0000803f0000000000000000000080bfa0d7e9be50f31240e007a3be91ddf63f000000000000000000000000000080bf0000803f0000000000000000000080bfe007a3be91ddf63f94b7b0bfdceaf43f000000000000000000000000000080bf0000803f0000000000000000000080bf94b7b0bfdceaf43ff8f6a1bfa4b8cd3f000000000000000000000000000080bf0000803f0000000000000000000080bff8f6a1bfa4b8cd3fa0d7e9be50f312400000c04000000000000000000000803f000080bf0000000000000000000080bfa0d7e93e50f3124048671ebfc0d629400000c04000000000000000000000803f000080bf0000000000000000000080bf48671e3fc0d6294094b7b0bfdceaf43f0000c04000000000000000000000803f000080bf0000000000000000000080bf94b7b03fdceaf43f6000c2bf4a880d400000c04000000000000000000000803f000080bf0000000000000000000080bf6000c23f4a880d4048671ebfc0d62940000000000000000000000000000080bf0000803f0000000000000000000080bf48671ebfc0d62940a0d7e9be50f31240000000000000000000000000000080bf0000803f0000000000000000000080bfa0d7e9be50f312406000c2bf4a880d40000000000000000000000000000080bf0000803f0000000000000000000080bf6000c2bf4a880d4094b7b0bfdceaf43f000000000000000000000000000080bf0000803f0000000000000000000080bf94b7b0bfdceaf43f48671ebfc0d629400000c04000000000000000000000803f000080bf0000000000000000000080bf48671e3fc0d62940f8c84dbf000040400000c04000000000000000000000803f000080bf0000000000000000000080bff8c84d3f000040406000c2bf4a880d400000c04000000000000000000000803f000080bf0000000000000000000080bf6000c23f4a880d4068bed5bf000020400000c04000000000000000000000803f000080bf0000000000000000000080bf68bed53f00002040f8c84dbf00004040000000000000000000000000000080bf0000803f0000000000000000000080bff8c84dbf0000404048671ebfc0d62940000000000000000000000000000080bf0000803f0000000000000000000080bf48671ebfc0d6294068bed5bf00002040000000000000000000000000000080bf0000803f0000000000000000000080bf68bed5bf000020406000c2bf4a880d40000000000000000000000000000080bf0000803f0000000000000000000080bf6000c2bf4a880d40f8c84dbf000040400000c04000000000000000000000803f000080bf0000000000000000000080bff8c84d3f000040406c6e81bfc75655400000c04000000000000000000000803f000080bf0000000000000000000080bf6c6e813fc756554068bed5bf000020400000c04000000000000000000000803f000080bf0000000000000000000080bf68bed53f0000204004dcebbf50c831400000c04000000000000000000000803f000080bf0000000000000000000080bf04dceb3f50c831406c6e81bfc7565540000000000000000000000000000080bf0000803f0000000000000000000080bf6c6e81bfc7565540f8c84dbf00004040000000000000000000000000000080bf0000803f0000000000000000000080bff8c84dbf0000404004dcebbf50c83140000000000000000000000000000080bf0000803f0000000000000000000080bf04dcebbf50c8314068bed5bf00002040000000000000000000000000000080bf0000803f0000000000000000000080bf68bed5bf000020406c6e81bfc75655400000c04000000000000000000000803f000080bf0000000000000000000080bf6c6e813fc756554064b49ebfafc369400000c04000000000000000000000803f000080bf0000000000000000000080bf64b49e3fafc3694004dcebbf50c831400000c04000000000000000000000803f000080bf0000000000000000000080bf04dceb3f50c831407f2002c0bccd42400000c04000000000000000000000803f000080bf0000000000000000000080bf7f200240bccd424064b49ebfafc36940000000000000000000000000000080bf0000803f0000000000000000000080bf64b49ebfafc369406c6e81bfc7565540000000000000000000000000000080bf0000803f0000000000000000000080bf6c6e81bfc75655407f2002c0bccd4240000000000000000000000000000080bf0000803f0000000000000000000080bf7f2002c0bccd424004dcebbf50c83140000000000000000000000000000080bf0000803f0000000000000000000080bf04dcebbf50c8314064b49ebfafc369400000c04000000000000000000000803f000080bf0000000000000000000080bf64b49e3fafc369404896bebf54307d400000c04000000000000000000000803f000080bf0000000000000000000080bf4896be3f54307d407f2002c0bccd42400000c04000000000000000000000803f000080bf0000000000000000000080bf7f200240bccd424048690fc09cfd52400000c04000000000000000000000803f000080bf0000000000000000000080bf48690f409cfd52404896bebf54307d40000000000000000000000000000080bf0000803f0000000000000000000080bf4896bebf54307d4064b49ebfafc36940000000000000000000000000000080bf0000803f0000000000000000000080bf64b49ebfafc3694048690fc09cfd5240000000000000000000000000000080bf0000803f0000000000000000000080bf48690fc09cfd52407f2002c0bccd4240000000000000000000000000000080bf0000803f0000000000000000000080bf7f2002c0bccd42404896bebf54307d400000c04000000000000000000000803f000080bf0000000000000000000080bf4896be3f54307d4028f1e0bfb6c387400000c04000000000000000000000803f000080bf0000000000000000000080bf28f1e03fb6c3874048690fc09cfd52400000c04000000000000000000000803f000080bf0000000000000000000080bf48690f409cfd5240d0b91dc0304662400000c04000000000000000000000803f000080bf0000000000000000000080bfd0b91d403046624028f1e0bfb6c38740000000000000000000000000000080bf0000803f0000000000000000000080bf28f1e0bfb6c387404896bebf54307d40000000000000000000000000000080bf0000803f0000000000000000000080bf4896bebf54307d40d0b91dc030466240000000000000000000000000000080bf0000803f0000000000000000000080bfd0b91dc03046624048690fc09cfd5240000000000000000000000000000080bf0000803f0000000000000000000080bf48690fc09cfd5240
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: -1.232233, y: 2.1213202, z: 3}
+    m_Extent: {x: 1.232233, y: 2.1213202, z: 3}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
 --- !u!1 &676742351
 GameObject:
   m_ObjectHideFlags: 0
@@ -7702,7 +7777,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 676742352}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7733,7 +7808,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 680317873}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: rig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7775,7 +7850,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 687404870}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-thumb.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7808,26 +7883,15 @@ GameObject:
   - component: {fileID: 692776721}
   - component: {fileID: 692776720}
   - component: {fileID: 692776719}
-  - component: {fileID: 692776718}
-  m_Layer: 10
+  - component: {fileID: 692776722}
+  - component: {fileID: 692776723}
+  m_Layer: 0
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!75 &692776718
-ConstantForce:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 692776717}
-  m_Enabled: 1
-  m_Force: {x: 0, y: 0, z: -5}
-  m_RelativeForce: {x: 0, y: 0, z: 0}
-  m_Torque: {x: 0, y: 0, z: 0}
-  m_RelativeTorque: {x: 0, y: 0, z: 0}
 --- !u!136 &692776719
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -7855,7 +7919,7 @@ Rigidbody:
   m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 112
   m_CollisionDetection: 3
 --- !u!4 &692776721
@@ -7865,7 +7929,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 692776717}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.000016912816}
   m_LocalPosition: {x: 105.5, y: 0.31, z: -35.64}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -7879,9 +7943,44 @@ Transform:
   - {fileID: 680317873}
   - {fileID: 1567670746}
   - {fileID: 1303980856}
+  - {fileID: 1375039186}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 540.002, z: 0}
+--- !u!114 &692776722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 692776717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62a7fe7fa4331f14e9fe707cf5811aae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 2
+  rotationSpeed: 120
+  boostMultiplier: 2
+--- !u!95 &692776723
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 692776717}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 164611b2b830f514ab1523478552fcdd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &696710416
 GameObject:
   m_ObjectHideFlags: 0
@@ -7891,7 +7990,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 696710417}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7922,7 +8021,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 702160416}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7953,7 +8052,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 707309412}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7983,7 +8082,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 710843170}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8013,7 +8112,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 714540028}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8043,7 +8142,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 716465703}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8074,7 +8173,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 717522819}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8104,7 +8203,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 718246107}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_toe.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8134,7 +8233,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 720393952}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_index.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8165,7 +8264,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 727295555}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_middle.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8196,7 +8295,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 732075520}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-thigh.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8228,7 +8327,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 734727188}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shoulder.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8260,7 +8359,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 739745517}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-foot_roll.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8292,7 +8391,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 742008465}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.02_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8324,7 +8423,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 744496322}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-hand.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8355,7 +8454,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 747137629}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-shin.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8394,7 +8493,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 751479050}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8424,7 +8523,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 754038945}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8455,7 +8554,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 762609709}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-shoulder.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8490,7 +8589,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 765977484}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8520,7 +8619,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 772859566}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-spine.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8550,7 +8649,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 772889570}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-shin_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8581,7 +8680,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 784120515}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hand_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8612,7 +8711,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 787146671}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_shoulder.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8642,7 +8741,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 792537477}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8672,7 +8771,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 797687558}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-foot.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8706,7 +8805,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 807549989}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.01_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8738,7 +8837,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 813556242}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8769,7 +8868,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 819176724}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-pelvis.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8800,7 +8899,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 825012119}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shoulder.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8830,7 +8929,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 825925691}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-shoulder.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8860,7 +8959,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 839706578}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8891,7 +8990,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 847232253}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-forearm_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8922,7 +9021,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 848229097}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_heel_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8958,7 +9057,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 850315815}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thumb.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8988,7 +9087,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 851247862}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: toe.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9019,7 +9118,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 854131641}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: forearm_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9051,7 +9150,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 857807375}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9082,7 +9181,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 861230756}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.01_master.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9188,7 +9287,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 870210814}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.01.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9219,7 +9318,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 872363344}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-shin_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9251,7 +9350,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 872613470}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-pelvis.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9273,91 +9372,6 @@ Transform:
   m_Father: {fileID: 387307061}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &878065762
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1478754139}
-    m_Modifications:
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -39.25705
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 49.37008
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 84.39395
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99878514
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.049276978
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -5.649
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1135601396024123489, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_Name
-      value: RockGroup (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f5fae83bce2a63247b24bc27a8845194, type: 3}
---- !u!4 &878065763 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-    type: 3}
-  m_PrefabInstance: {fileID: 878065762}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &881474369
 GameObject:
   m_ObjectHideFlags: 0
@@ -9367,7 +9381,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 881474370}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9397,7 +9411,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 886306491}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_middle.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9428,7 +9442,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 889124895}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: forearm.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9459,7 +9473,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 896466327}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9490,7 +9504,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 912700288}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.01_master.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9520,7 +9534,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 913971702}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9550,7 +9564,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 916600286}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9580,7 +9594,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 917949672}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9611,7 +9625,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 928947528}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.01_master.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9642,7 +9656,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 931483986}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.03_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9674,7 +9688,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 935601321}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9708,7 +9722,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 936267829}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.01.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9738,7 +9752,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 944501524}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-foot_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9770,7 +9784,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 958950193}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9805,7 +9819,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 970621354}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9835,7 +9849,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 975233718}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9867,7 +9881,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 979319133}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_spin_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9897,7 +9911,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 980939515}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_spine_fk.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9927,7 +9941,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 983203702}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-hand_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9958,7 +9972,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 990297768}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9989,7 +10003,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1003279569}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10019,7 +10033,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1003927515}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hand.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10053,7 +10067,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1005954537}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-shoulder.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10088,7 +10102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1011367884}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.01_master.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10118,7 +10132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1016504581}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-forearm.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10151,7 +10165,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1018077461}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10182,7 +10196,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1021753068}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10212,7 +10226,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1028051061}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10242,7 +10256,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1045930866}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_shin_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10272,7 +10286,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1053131619}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_ik_target.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10302,7 +10316,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1054444960}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10332,7 +10346,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1057041165}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_index.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10362,7 +10376,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1060848307}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shin_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10393,7 +10407,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1065702488}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thigh.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10430,7 +10444,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1070528068}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10462,7 +10476,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1070654616}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10494,7 +10508,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1073009431}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-upper_arm.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10525,7 +10539,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1080323470}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-foot_ik.parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10556,7 +10570,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1087432443}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10589,7 +10603,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1089163097}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10619,7 +10633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1093092632}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10649,7 +10663,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1096961134}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10679,7 +10693,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1098617518}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.01_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10711,7 +10725,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1099399655}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-hand_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10743,7 +10757,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1101462354}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-shin_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10775,7 +10789,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1114054696}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10809,7 +10823,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1115110274}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-hand_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10841,7 +10855,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1118786140}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: toe.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10871,7 +10885,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1122214456}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hand_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10986,7 +11000,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1123168425}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_shin_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11016,7 +11030,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1128088468}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11048,7 +11062,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1129123590}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_middle.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11079,7 +11093,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1132937564}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: forearm_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11110,7 +11124,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1133620850}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_middle.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11141,7 +11155,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1134710630}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_heel_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11171,7 +11185,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1138108046}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_ring.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11204,7 +11218,7 @@ GameObject:
   - component: {fileID: 1139135036}
   - component: {fileID: 1139135038}
   - component: {fileID: 1139135037}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: pCube1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11281,7 +11295,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1146343269}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11313,7 +11327,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1148458901}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-heel.02_rock1.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11344,7 +11358,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1149857304}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11374,7 +11388,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1159807245}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.01.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11404,7 +11418,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1166077863}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11434,7 +11448,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1170862350}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11464,7 +11478,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1176482165}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: pelvis.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11495,7 +11509,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1178575779}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_ik_target.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11525,7 +11539,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1191257068}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11555,7 +11569,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1193245130}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_hand_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11585,7 +11599,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1197161524}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11616,7 +11630,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1197573550}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thumb.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11647,7 +11661,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1197771898}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-forearm.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11680,7 +11694,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1198433950}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.01.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11712,7 +11726,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1200448431}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: tweak_spine.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11743,7 +11757,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1207336733}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11773,7 +11787,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1208248487}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_ik_target.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11804,7 +11818,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1212667021}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_ik_target.parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11835,7 +11849,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1216571532}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_heel_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11865,7 +11879,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1220391867}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11896,7 +11910,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1222141574}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11927,7 +11941,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1224459933}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: tweak_spine.004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11957,7 +11971,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1231207305}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_index.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11988,7 +12002,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1232086429}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_index.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12019,7 +12033,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1232781637}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-toe.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12050,7 +12064,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1237320157}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12081,7 +12095,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1240520140}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_shin_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12111,7 +12125,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1245336095}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_VIS_thigh_ik_pole.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12141,7 +12155,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1248529724}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12171,7 +12185,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1250050246}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hand_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12202,7 +12216,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1252309082}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12232,7 +12246,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1256086113}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-forearm.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12263,7 +12277,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1256656175}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_middle.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12293,7 +12307,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1261377053}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-foot.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12324,7 +12338,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1264593419}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12354,7 +12368,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1266543328}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12384,7 +12398,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1267409486}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12414,7 +12428,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1267522223}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-heel.02_roll2.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12445,7 +12459,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1268656342}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.01.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12475,7 +12489,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1271055446}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_forearm_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12505,7 +12519,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1277622696}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12632,7 +12646,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1282089526}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: torso
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12756,7 +12770,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1295813926}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-thumb.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12786,7 +12800,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1297457719}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-foot.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12820,7 +12834,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1297738076}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12852,7 +12866,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1303980856}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12882,7 +12896,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1305568107}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_tweak_spine.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12912,7 +12926,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1311167886}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thigh.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12943,7 +12957,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1311939410}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-shin.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12974,7 +12988,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1316279563}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_ik_target.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13228,7 +13242,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1316731022}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shin_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13258,7 +13272,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1331341565}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13289,7 +13303,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1332238383}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13319,7 +13333,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1332307227}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_parent_socket.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13350,7 +13364,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1336750965}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-heel.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13380,7 +13394,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1345983551}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.01.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13411,7 +13425,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1346611928}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine.004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13517,7 +13531,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1352049739}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shoulder.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13548,7 +13562,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1355392832}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13578,7 +13592,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1358657723}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.01.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13609,7 +13623,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1359409747}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hand_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13639,7 +13653,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1363130466}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13670,7 +13684,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1365204206}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-upper_arm.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13701,7 +13715,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1365785979}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_VIS_upper_arm_ik_pole.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13731,7 +13745,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1372262982}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: palm.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13763,7 +13777,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1373729907}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: tweak_spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13785,6 +13799,134 @@ Transform:
   m_Father: {fileID: 530306195}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1375039185
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1375039186}
+  - component: {fileID: 1375039187}
+  m_Layer: 0
+  m_Name: Trail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1375039186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375039185}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0.000016912816}
+  m_LocalPosition: {x: 0.04, y: 0.79, z: 0.02}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 692776721}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!96 &1375039187
+TrailRenderer:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1375039185}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Time: 5
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 1, b: 1, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_MinVertexDistance: 0.1
+  m_Autodestruct: 0
+  m_Emitting: 1
 --- !u!1 &1378551082
 GameObject:
   m_ObjectHideFlags: 0
@@ -13794,7 +13936,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1378551083}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_tweak_spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13824,7 +13966,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1379273265}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: VIS_thigh_ik_pole.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13854,7 +13996,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1385937849}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine_fk.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13886,7 +14028,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1388166843}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.02.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13919,7 +14061,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1395048686}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_forearm_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14024,7 +14166,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1396703564}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14056,7 +14198,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1397801463}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shin_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14087,7 +14229,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1398285170}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.02_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14119,7 +14261,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1402830224}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.01.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14150,7 +14292,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1404548734}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14180,7 +14322,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1407344563}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_ik_target.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14210,7 +14352,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1408697429}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14240,7 +14382,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1416053691}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: VIS_upper_arm_ik_pole.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14270,7 +14412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1421846180}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-heel.02_rock2.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14301,7 +14443,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1425460064}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-spine.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14333,7 +14475,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1427242889}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-foot_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14364,7 +14506,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1436205000}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hand_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14394,7 +14536,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1436308124}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_forearm_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14426,7 +14568,7 @@ GameObject:
   - component: {fileID: 1439574008}
   - component: {fileID: 1439574010}
   - component: {fileID: 1439574009}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: pCylinder4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14503,7 +14645,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1447405726}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-heel.02_roll1.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14534,7 +14676,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1453426288}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: forearm_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14566,7 +14708,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1454744950}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_ik_stretch.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14596,7 +14738,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1460143624}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.01_master.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14626,7 +14768,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1460699939}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: forearm.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14657,7 +14799,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1468026381}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.01.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14687,7 +14829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1468524558}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_VIS_upper_arm_ik_pole.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14717,7 +14859,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1471027949}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine_fk.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14748,7 +14890,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1474133125}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.01.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14770,40 +14912,6 @@ Transform:
   m_Father: {fileID: 142399511}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1478754138
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1478754139}
-  m_Layer: 0
-  m_Name: Rocks
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1478754139
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1478754138}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 51.241543, y: -50.901787, z: -137.62335}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 878065763}
-  - {fileID: 534013425}
-  - {fileID: 532627750}
-  - {fileID: 2073416983}
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1479069442
 GameObject:
   m_ObjectHideFlags: 0
@@ -14813,7 +14921,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1479069443}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14844,7 +14952,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1479720322}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.02.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14877,7 +14985,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1480082484}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-foot_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14908,7 +15016,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1480914572}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14939,7 +15047,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1481516560}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14970,7 +15078,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1482504372}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15000,7 +15108,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1482826897}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.01_master.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15031,7 +15139,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1490507533}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-forearm_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15061,7 +15169,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1493672047}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.02.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15094,7 +15202,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1494442927}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15127,7 +15235,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1501010997}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thigh.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15158,7 +15266,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1501196303}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-torso.parent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15189,7 +15297,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1503451621}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_index.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15219,7 +15327,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1512126985}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15250,7 +15358,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1513317185}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15280,7 +15388,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1513348988}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_ik_target.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15310,7 +15418,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1514002181}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15409,7 +15517,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1519219380}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.01.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15440,7 +15548,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1521210457}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15470,7 +15578,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1526743170}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_ik_target.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15501,7 +15609,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1527106176}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-hand.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15604,7 +15712,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1532498922}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15634,7 +15742,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1536532185}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_ring.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15665,7 +15773,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1538286014}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-foot.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15696,7 +15804,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1539295912}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-toe.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15727,7 +15835,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1547500379}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15758,7 +15866,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1552663396}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thumb.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15788,7 +15896,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1558737613}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15818,7 +15926,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1564233010}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.01_master.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15850,7 +15958,7 @@ GameObject:
   - component: {fileID: 1567670746}
   - component: {fileID: 1567670748}
   - component: {fileID: 1567670747}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGTS_rig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16045,7 +16153,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1573080151}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16075,7 +16183,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1575527991}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-forearm.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16106,7 +16214,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1578845126}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-spine.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16138,7 +16246,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1584133411}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_hand_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16168,7 +16276,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1587536922}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16198,7 +16306,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1588669198}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.03_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16230,7 +16338,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1597766925}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: tweak_spine.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16261,7 +16369,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1597947552}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_ring.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16291,7 +16399,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1607131866}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_shin_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16321,7 +16429,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1613462581}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-foot_roll.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16353,7 +16461,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1618685245}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: tweak_spine.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16384,7 +16492,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1622883074}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-shin_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16414,7 +16522,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1625606898}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.02.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16446,7 +16554,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1632855605}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-palm.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16731,7 +16839,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1637510682}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: palm.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16763,7 +16871,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1642696821}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-palm.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16794,7 +16902,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1646688576}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16824,7 +16932,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1647152017}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16855,7 +16963,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1647700166}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thumb.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16885,7 +16993,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1651021201}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_palm.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16915,7 +17023,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1651484668}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_ik_target.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16945,7 +17053,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1652845424}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.02_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16977,7 +17085,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1653071904}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17007,7 +17115,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1656183351}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.03_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17039,7 +17147,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1657774740}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.03_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17140,7 +17248,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1668436865}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.02_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17172,7 +17280,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1669517032}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.03.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17204,7 +17312,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1669671538}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17234,7 +17342,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1671384174}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: heel.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17264,7 +17372,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1673612337}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17295,7 +17403,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1675497874}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-thumb.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17326,7 +17434,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1678586335}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17358,7 +17466,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1683363194}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-foot_ik.parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17389,7 +17497,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1688072618}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-shoulder.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17419,7 +17527,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1688602269}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-spine.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17525,7 +17633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1707638393}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-palm.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17556,7 +17664,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1708223849}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17671,7 +17779,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1709982474}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17701,7 +17809,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1712314079}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17733,7 +17841,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1713818087}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.01_master.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17764,7 +17872,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1714002813}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.01_master.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17794,7 +17902,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1722441272}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: forearm_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17825,7 +17933,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1723693466}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: spine.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17855,7 +17963,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1727567223}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17885,7 +17993,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1729328117}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17984,7 +18092,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1734157099}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.02.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18017,7 +18125,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1737163243}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_ring.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18048,7 +18156,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1739491206}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18078,7 +18186,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1740678902}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: heel.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18108,7 +18216,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1747035457}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_tweak_spine.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18138,7 +18246,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1750443515}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_parent.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18172,7 +18280,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1754163492}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: toe.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18203,7 +18311,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1761864256}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_forearm_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18233,7 +18341,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1768354762}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.01_drv.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18333,7 +18441,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1776403988}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18363,7 +18471,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1784891057}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.03.R 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18401,7 +18509,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1789826181}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_ring.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18432,7 +18540,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1793031304}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18462,7 +18570,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1793634056}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18492,7 +18600,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1795076117}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.01_master.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18522,7 +18630,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1797506276}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.03_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18553,7 +18661,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1814405305}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_index.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18583,7 +18691,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1826311227}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18614,7 +18722,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1827812825}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_hand_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18644,7 +18752,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1833007081}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.02_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18676,7 +18784,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1835171088}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18707,7 +18815,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1840327098}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_VIS_thigh_ik_pole.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18737,7 +18845,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1841058715}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_middle.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18767,7 +18875,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1842450703}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.01.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18798,7 +18906,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1846088231}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-forearm_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18830,7 +18938,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1852671412}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-hand.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18861,7 +18969,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1852865430}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18894,7 +19002,7 @@ GameObject:
   - component: {fileID: 1857667331}
   - component: {fileID: 1857667333}
   - component: {fileID: 1857667332}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: pCylinder5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18971,7 +19079,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1859398451}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-spine.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19008,7 +19116,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1866950883}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.01.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19040,7 +19148,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1868107803}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19324,7 +19432,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1871814348}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-thumb.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19354,7 +19462,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1872781787}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_index.01.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19385,7 +19493,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1875272432}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19416,7 +19524,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1876533387}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19446,7 +19554,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1879641558}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19478,7 +19586,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1882123808}
   - component: {fileID: 1882123809}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: pSphere5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19622,7 +19730,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1884724883}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.01.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19652,7 +19760,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1887536715}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_ring.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19683,7 +19791,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1887922227}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_forearm_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19713,7 +19821,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1895033485}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_hand_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19743,7 +19851,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1898012866}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.01.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19775,7 +19883,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1898515286}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_spin_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19805,7 +19913,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1899050867}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_index.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19841,7 +19949,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1905216480}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19872,7 +19980,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1905276215}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thumb.03_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19904,7 +20012,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1907762928}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_index.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19941,7 +20049,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1910504203}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-upper_arm.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19972,7 +20080,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1911921301}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20002,7 +20110,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1914221176}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-spine.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20033,7 +20141,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1917607625}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-hand_ik.parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20065,7 +20173,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1928630451}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_middle.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20171,7 +20279,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1933001234}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_ring.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20202,7 +20310,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1933095341}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-shin.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20241,7 +20349,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1936948849}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20271,7 +20379,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1943220926}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_foot_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20301,7 +20409,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1946444720}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-pelvis.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20331,7 +20439,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1949908773}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_shoulder.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20361,7 +20469,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1950143207}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-spine.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20398,7 +20506,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1951769694}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-forearm.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20429,7 +20537,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1954798773}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20459,7 +20567,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1956971659}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shin_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20490,7 +20598,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1959131373}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_ik_target.parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20521,7 +20629,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1964319180}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_ik.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20552,7 +20660,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1970458513}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_ring.01_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20584,7 +20692,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1981348167}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_ring.01_master.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20614,7 +20722,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1982133656}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: shin_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20645,7 +20753,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1990522859}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_parent_socket.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20676,7 +20784,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1992970580}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-toe.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20707,7 +20815,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1996310103}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20738,7 +20846,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1996607048}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_thigh_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20770,7 +20878,7 @@ GameObject:
   - component: {fileID: 1996642918}
   - component: {fileID: 1996642920}
   - component: {fileID: 1996642919}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: pCube2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20847,7 +20955,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2000865103}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_spin_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20879,7 +20987,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2003653050}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-spine.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20909,7 +21017,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2007636075}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: palm.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20946,7 +21054,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2020172814}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_hand_tweak.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20976,7 +21084,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2023320017}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.01.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21007,7 +21115,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2026644396}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.03.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21040,7 +21148,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2031871431}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_middle.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21071,7 +21179,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2038035008}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-spine.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21101,7 +21209,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2038861017}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-thigh_ik_target.parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21132,7 +21240,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2048511864}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.01.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21164,7 +21272,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2053734276}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thumb.01_master.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21194,7 +21302,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2053933600}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: palm.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21224,7 +21332,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2057737609}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-upper_arm.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21257,7 +21365,7 @@ PrefabInstance:
     - target: {fileID: 2693573932408249064, guid: 11ad6071766f6d5428a83259fef12ec1,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2693573932408249064, guid: 11ad6071766f6d5428a83259fef12ec1,
         type: 3}
@@ -21352,7 +21460,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2069824630}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-upper_arm.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21386,11 +21494,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: TreeMedium
-      objectReference: {fileID: 0}
-    - target: {fileID: 3886003235171834601, guid: 27f9c05a0d4f0e14a856ed8ecbd67035,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4514308831548784723, guid: 27f9c05a0d4f0e14a856ed8ecbd67035,
         type: 3}
@@ -21447,7 +21550,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 364979082, guid: 27f9c05a0d4f0e14a856ed8ecbd67035, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 27f9c05a0d4f0e14a856ed8ecbd67035, type: 3}
 --- !u!1001 &2071613405
 PrefabInstance:
@@ -21712,7 +21816,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2072623924}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_middle.03.L 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21736,91 +21840,6 @@ Transform:
   m_Father: {fileID: 1657774740}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &2073416982
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1478754139}
-    m_Modifications:
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.5000002
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -9.416969
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 39.608215
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -24.453995
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99878514
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.049276978
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -5.649
-      objectReference: {fileID: 0}
-    - target: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1135601396024123489, guid: f5fae83bce2a63247b24bc27a8845194,
-        type: 3}
-      propertyPath: m_Name
-      value: RockGroup
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f5fae83bce2a63247b24bc27a8845194, type: 3}
---- !u!4 &2073416983 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 326977025837693659, guid: f5fae83bce2a63247b24bc27a8845194,
-    type: 3}
-  m_PrefabInstance: {fileID: 2073416982}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2074371376
 GameObject:
   m_ObjectHideFlags: 0
@@ -21830,7 +21849,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2074371377}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21860,7 +21879,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2075930633}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_f_middle.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21890,7 +21909,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2080752955}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.02_drv.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21922,7 +21941,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2083668973}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-f_middle.03.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21952,7 +21971,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2085777326}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-f_index.01.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21983,7 +22002,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2090281589}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-f_middle.02.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22014,7 +22033,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2090566775}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_tweak.L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22117,7 +22136,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 364979082, guid: 27f9c05a0d4f0e14a856ed8ecbd67035, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 27f9c05a0d4f0e14a856ed8ecbd67035, type: 3}
 --- !u!1 &2095409589
 GameObject:
@@ -22128,7 +22148,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2095409590}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_parent.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22162,7 +22182,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2100963905}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_ik_stretch.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22192,7 +22212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2103263745}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: foot_heel_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22222,7 +22242,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2110427353}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: upper_arm_fk.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22254,7 +22274,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2117432737}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: forearm_tweak.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22285,7 +22305,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2118951943}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: ORG-heel.02.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22315,7 +22335,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2123395232}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh_ik.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22346,7 +22366,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2128427549}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: f_ring.03.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22376,7 +22396,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2131560640}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: MCH-upper_arm_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22407,7 +22427,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2132255744}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: hand.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22440,7 +22460,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2133170085}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: DEF-spine.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22471,7 +22491,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2135152015}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_shin_fk.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22501,7 +22521,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2140320416}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: WGT-rig_upper_arm_tweak.R.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22531,7 +22551,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2143943362}
-  m_Layer: 10
+  m_Layer: 0
   m_Name: thigh.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -721,6 +721,8 @@ GameObject:
   m_Component:
   - component: {fileID: 9117953069100586070}
   - component: {fileID: 4085612886327515353}
+  - component: {fileID: 7853888028138377233}
+  - component: {fileID: 3910571439926093252}
   m_Layer: 10
   m_Name: Snowman
   m_TagString: Untagged
@@ -764,3 +766,27 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2, y: 4, z: 2}
   m_Center: {x: 0, y: 1.9, z: 0}
+--- !u!114 &7853888028138377233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8485532309953187564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0062f144dc3721147a307d90999870f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3910571439926093252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8485532309953187564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c09068324200ac7498dba430a0ad170f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
