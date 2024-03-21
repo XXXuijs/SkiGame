@@ -11,7 +11,8 @@ public class Obstacle : MonoBehaviour
         }
     }
 
-    public virtual void HitPlayer (GameObject player){
-        print("I hit the player");
+    public virtual void HitPlayer(GameObject player){
+        Debug.Log("I hit the player");
+        PlayerEvents.PlayerHit();
     }
 }
