@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     private float rotationLimit = 70f; // Maximum rotation in degrees
     private float currentRotation = 0f; // Current rotation around the Y-axis
     public float boostMultiplier = 2f; // Speed multiplier for the boost
+    public float groundCheckDistance = 0.1f; // Distance to check for ground
 
     private Rigidbody rb;
     private Animator animator; // Reference to the Animator component
@@ -41,8 +42,8 @@ public class PlayerController : MonoBehaviour
         // Apply a constant force to the player in the direction of the camera's forward vector
         rb.AddForce(movement * effectiveMoveSpeed, ForceMode.Force);
 
-        // Check if the player is pressing "A" or "D"
-        if (horizontalInput != 0)
+        // Check if the player is pressing "A" or "D" and if they are grounded
+        if (horizontalInput != 0 && IsGrounded())
         {
             // Calculate the new rotation angle
             float rotationAngle = horizontalInput > 0 ? -rotationSpeed * Time.deltaTime : rotationSpeed * Time.deltaTime;
@@ -56,4 +57,22 @@ public class PlayerController : MonoBehaviour
             }
         }
     }
+
+    // Check if the player is grounded
+    bool IsGrounded()
+{
+    // Check for a SphereCollider component
+    SphereCollider sphereCollider = GetComponent<SphereCollider>();
+    float groundCheckDistance = 0.1f; // Default ground check distance
+    float radius = 0.5f; // Default radius for ground check
+
+    if (sphereCollider != null)
+    {
+        // Use the radius of the SphereCollider for the ground check
+        radius = sphereCollider.radius;
+    }
+
+    // Perform a raycast downwards to check for ground
+    return Physics.Raycast(transform.position, -Vector3.up, groundCheckDistance + radius);
+}
 }
