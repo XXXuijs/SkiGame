@@ -218,3 +218,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0062f144dc3721147a307d90999870f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  virtualCamera: {fileID: 0}
+  shakeAmplitude: 1
+  shakeFrequency: 1
