@@ -725,7 +725,7 @@ GameObject:
   - component: {fileID: 3910571439926093252}
   m_Layer: 10
   m_Name: Snowman
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -778,9 +778,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0062f144dc3721147a307d90999870f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  virtualCamera: {fileID: 0}
-  shakeAmplitude: 1
-  shakeFrequency: 1
 --- !u!114 &3910571439926093252
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -793,8 +790,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c09068324200ac7498dba430a0ad170f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  virtualCamera: {fileID: 0}
-  shakeAmplitude: 1
-  shakeFrequency: 1
   explosionParticlesPrefab: {fileID: 7140655253359642931, guid: 5327940f8c1ed474cabc665ea627abd2,
     type: 3}
