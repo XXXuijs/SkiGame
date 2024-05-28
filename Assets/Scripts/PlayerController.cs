@@ -1,7 +1,9 @@
 ﻿using UnityEngine;
+using UnityEngine.UI; // Add this to use the UI namespace
+using System.Collections;
 
 [RequireComponent(typeof(Rigidbody))]
-[RequireComponent(typeof(Animator))] // Ensure that the GameObject has an Animator component
+[RequireComponent(typeof(Animator))]
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
@@ -10,15 +12,21 @@ public class PlayerController : MonoBehaviour
     private float currentRotation = 0f; // Current rotation around the Y-axis
     public float boostMultiplier = 2f; // Speed multiplier for the boost
     public float groundCheckDistance = 0.1f; // Distance to check for ground
+    public float playerHealth = 100f; // Player's health
+    public Text playerHealthUI; // Reference to the UI Text element for health display
 
     private Rigidbody rb;
     private Animator animator; // Reference to the Animator component
+    private float originalSpeed; // Store the original speed for resetting after boost
+    private Coroutine speedBoostCoroutine;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>(); // Get the Animator component
+        originalSpeed = moveSpeed; // Store the original speed
+        UpdatePlayerHealthUI(); // Initialize the health UI
     }
 
     // Update is called once per frame
@@ -60,19 +68,58 @@ public class PlayerController : MonoBehaviour
 
     // Check if the player is grounded
     bool IsGrounded()
-{
-    // Check for a SphereCollider component
-    SphereCollider sphereCollider = GetComponent<SphereCollider>();
-    float groundCheckDistance = 0.1f; // Default ground check distance
-    float radius = 0.5f; // Default radius for ground check
-
-    if (sphereCollider != null)
     {
-        // Use the radius of the SphereCollider for the ground check
-        radius = sphereCollider.radius;
+        // Perform a raycast downwards to check for ground
+        return Physics.Raycast(transform.position, -Vector3.up, groundCheckDistance);
     }
 
-    // Perform a raycast downwards to check for ground
-    return Physics.Raycast(transform.position, -Vector3.up, groundCheckDistance + radius);
-}
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("SpeedFlag"))
+        {
+            // Start the speed boost coroutine
+            if (speedBoostCoroutine != null)
+            {
+                StopCoroutine(speedBoostCoroutine);
+            }
+            speedBoostCoroutine = StartCoroutine(SpeedBoost(1f)); // Boost lasts for 1 second
+            Destroy(other.gameObject); // Destroy the speed flag after collection
+        }
+    }
+
+    private IEnumerator SpeedBoost(float duration)
+    {
+        float originalSpeed = moveSpeed;
+        moveSpeed *= boostMultiplier; // Apply the speed boost
+        yield return new WaitForSeconds(duration);
+        moveSpeed = originalSpeed; // Reset the speed after the duration
+        speedBoostCoroutine = null;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Obstacle"))
+        {
+            // Decrease player health when colliding with an obstacle
+            playerHealth -= 20f; // Adjust the value as needed
+            UpdatePlayerHealthUI(); // Update the health UI
+
+            // Check if the player has no health left
+            if (playerHealth <= 0)
+            {
+                // Handle player death
+                Debug.Log("Player has died!");
+                // You can add code to respawn the player or end the game
+            }
+        }
+    }
+
+    // Method to update the health UI
+    private void UpdatePlayerHealthUI()
+    {
+        if (playerHealthUI != null)
+        {
+            playerHealthUI.text = "Health: " + playerHealth.ToString();
+        }
+    }
 }

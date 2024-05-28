@@ -724,6 +724,7 @@ GameObject:
   - component: {fileID: 7853888028138377233}
   - component: {fileID: 3910571439926093252}
   - component: {fileID: 8222245297089999263}
+  - component: {fileID: 8759067832447432634}
   m_Layer: 10
   m_Name: Snowman
   m_TagString: Obstacle
@@ -834,3 +835,19 @@ MonoBehaviour:
     m_DirectionMode: 0
     m_DissipationMode: 2
     m_DissipationDistance: 1000
+--- !u!114 &8759067832447432634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8485532309953187564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32a3d3561366b4f488f8e1b9af3620cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  snowBall: {fileID: 4696559925989147744, guid: d103b39dceec7ef41a952c1d2de1c92e,
+    type: 3}
+  throwDistance: 20
+  throwSpeed: 1000
