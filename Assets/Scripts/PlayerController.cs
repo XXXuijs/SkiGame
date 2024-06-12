@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI; // Add this to use the UI namespace
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody))]
 [RequireComponent(typeof(Animator))]
@@ -115,11 +116,21 @@ public class PlayerController : MonoBehaviour
     }
 
     // Method to update the health UI
-    private void UpdatePlayerHealthUI()
+private void UpdatePlayerHealthUI()
+{
+    if (playerHealthUI != null)
     {
-        if (playerHealthUI != null)
+        playerHealthUI.text = "Health: " + playerHealth.ToString();
+        
+        // Check if the player's health is zero or less
+        if (playerHealth <= 0)
         {
-            playerHealthUI.text = "Health: " + playerHealth.ToString();
+            // Destroy the player game object
+            Destroy(gameObject);
+            
+            // Restart the scene
+            UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
         }
     }
+}
 }

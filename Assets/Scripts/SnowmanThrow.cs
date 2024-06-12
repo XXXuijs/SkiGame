@@ -18,10 +18,13 @@ public class SnowmanThrow : MonoBehaviour
 
     // Update is called once per frame
     void Update()
+{
+    GameObject target = GameObject.Find("Player");
+
+    // Check if the target object is null before proceeding
+    if (target != null)
     {
-       GameObject target = GameObject.Find("Player");
-       
-       float distanceToTarget = Vector3.Distance(target.transform.position, transform.position);
+        float distanceToTarget = Vector3.Distance(target.transform.position, transform.position);
 
         if (distanceToTarget < throwDistance && !justThrown && snowballCount < maxSnowballs)
         {
@@ -34,7 +37,7 @@ public class SnowmanThrow : MonoBehaviour
                 tempSnowBall.transform.rotation = transform.rotation;
                 Rigidbody tempRb = tempSnowBall.GetComponent<Rigidbody>();
                 Vector3 targetDirection = Vector3.Normalize(target.transform.position - transform.position);
-                
+
                 // Add a small throw angle
                 targetDirection += new Vector3(0, 0.33f, 0);
                 tempRb.AddForce(targetDirection * throwSpeed);
@@ -43,6 +46,11 @@ public class SnowmanThrow : MonoBehaviour
             }
         }
     }
+    else
+    {
+        Debug.LogWarning("Player object not found in the scene.");
+    }
+}
 
     void ThrowOver()
     {
